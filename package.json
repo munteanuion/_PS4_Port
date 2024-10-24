@@ -1,0 +1,12 @@
+{
+  "name": "com.munteanuion._ps4_port",
+  "version": "1.0.0",
+  "displayName": "_PS4_Port",
+  "description": "Support Telegram: @MunteanuIon. \n\n_PS4_Port",
+  "unity": "2021.3",
+  "author": {
+    "name": "munteanuion",
+    "url": "https://github.com/munteanuion/AdvancedLODsHelperSystem"
+  },
+  "dependencies": {}
+}
