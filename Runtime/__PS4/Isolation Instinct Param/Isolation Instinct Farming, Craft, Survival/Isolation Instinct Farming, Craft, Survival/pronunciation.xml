@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text display="1">Isolation Instinct Farming, Craft, Survival</text>
+      <pronunciation>ay s ax l ey sh ax n ___ ih n s t ih n k t ___ f aa r m ih n ___ k r ae f t ___ s er v ay v ax l</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">Isolation Instinct Farming, Craft, Survival</text>
+      <pronunciation>ay s ax l ey sh n ___ ih n s t ih n k t ___ f aa m ih n ___ k r aa f t ___ s ax v ay v l</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="18" modified="0">
+    <speechRecognitionWords>
+      <text display="1">Isolation Instinct Farming, Craft, Survival</text>
+      <pronunciation>ay s ax l ey sh n ___ ih n s t ih n k t ___ f aa m ih n ___ k r aa f t ___ s ax v ay v l</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">Isolation Instinct Farming, Craft, Survival</text>
+      <pronunciation>ay s ax l ey sh ax n ___ ih n s t ih n k t ___ f aa r m ih n ___ k r ae f t ___ s er v ay v ax l</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>

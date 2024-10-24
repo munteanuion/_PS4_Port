@@ -1,0 +1,33 @@
+--Platinum--
+
+--Bronze 8--
+
+1. Equip stone axe tool
+2. Equip one leather armor
+3. Equip aluminium sword weapon
+4. Cut down 25 tree
+5. Discover iron
+6. Discover dark forest
+7. Kill 25 monsters
+8. Enter the portal
+
+--Silver 7--
+
+1. Equip iron axe tool
+2. Equip one obsidian armor
+3. Equip obsidian sword weapon
+4. Cut down 150 tree
+5. Discover obsidian
+6. Discover blood forest
+7. Kill 150 monsters
+
+--Gold 7--
+
+1. Equip gold axe tool
+2. Equip one gold armor
+3. Equip gold sword weapon
+4. Cut down 300 tree
+5. Discover gold
+6. Discover dead forest
+7. Kill 300 monsters
+
