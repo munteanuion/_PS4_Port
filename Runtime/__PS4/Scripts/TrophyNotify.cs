@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class TrophyNotify: MonoBehaviour
 {
-    public static TrophyNotify Instance;
+    public static TrophyNotify Instance = null;
 #if UNITY_PS4
     private AchievementSystem AchievementSys => AchievementSystem.Instance;
 #endif
@@ -16,22 +16,16 @@ public class TrophyNotify: MonoBehaviour
     /// 
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
-    public void Initialize()
+    public static void Initialize()
     {
-        GameObject trophyNotify = new GameObject(nameof(TrophyNotify));
-
-        trophyNotify.AddComponent<TrophyNotify>();
-
         if (Instance == null)
         {
-            Instance = this;
+            GameObject trophyNotify = new GameObject(nameof(TrophyNotify));
+            Instance = trophyNotify.AddComponent<TrophyNotify>();
             DontDestroyOnLoad(trophyNotify);
         }
-        else
-        {
-            Destroy(trophyNotify);
-        }
     }
+
 
     public void UnlockTrophy(ETrophey eTrophey)
     {
